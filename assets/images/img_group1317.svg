@@ -1,0 +1,15 @@
+<svg width="29" height="29" viewBox="0 0 29 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_1_1798)">
+<circle cx="14.5" cy="14.5" r="14.5" fill="#090909" fill-opacity="0.15"/>
+<circle cx="14.5" cy="14.5" r="14" stroke="black" stroke-opacity="0.1"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.3781 5.15545C16.5154 5.10825 16.664 5.1052 16.8031 5.14674C16.9422 5.18828 17.0649 5.27233 17.154 5.38714L22.0297 11.6678C22.1249 11.7904 22.1765 11.9411 22.1765 12.0963C22.1765 12.2515 22.1249 12.4023 22.0297 12.5248L17.154 18.8055C17.0649 18.9202 16.9422 19.0042 16.8032 19.0456C16.6641 19.0871 16.5156 19.084 16.3784 19.0368C16.2411 18.9896 16.122 18.9007 16.0377 18.7824C15.9534 18.6641 15.908 18.5224 15.908 18.377V15.5926C12.1613 15.6708 10.3615 16.3833 9.45742 17.1579C8.5979 17.8941 8.44048 18.7602 8.2768 19.6674L8.23431 19.9012C8.20306 20.0684 8.11186 20.2185 7.97789 20.3231C7.84392 20.4278 7.67641 20.4797 7.50686 20.4693C7.33732 20.4588 7.17744 20.3866 7.05729 20.2663C6.93715 20.146 6.86502 19.9859 6.85449 19.816C6.73469 17.8983 6.91439 15.1194 8.26635 12.7949C9.57861 10.5387 11.9412 8.80385 15.908 8.6224V5.81562C15.9079 5.67023 15.9532 5.52845 16.0375 5.41009C16.1218 5.29173 16.2409 5.20271 16.3781 5.15545Z" fill="white"/>
+<defs>
+<filter id="filter0_b_1_1798" x="-10.1405" y="-10.1405" width="49.281" height="49.281" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_1798"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_1798" result="shape"/>
+</filter>
+</defs>
+</svg>
